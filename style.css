@@ -94,13 +94,13 @@ ul {
 @media (max-width: 1400px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
-    width: 800px;
+    width: 600px;
   }
 }
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
-    width: 700px;
+    width: 600px;
   }
 }
 @media (max-width: 720px) {
