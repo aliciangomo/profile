@@ -17,6 +17,7 @@ h2 {
 
 a, a:visited {
   font-color: #4775d1;
+  text-decoration: none;
 }
 
 a:hover {
@@ -90,13 +91,6 @@ ul {
 
 
 /*Responsiveness*/
-@media (max-width: 1024px) {
-  /* For a screen < 1024px, this CSS will be read */
-  .container {
-    width: 700px;
-  }
-}
-
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
